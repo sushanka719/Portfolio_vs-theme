@@ -1,0 +1,5 @@
+node_modules/
+vscode-portfolio/node_modules/
+vscode-portfolio/dist/
+.vercel/
+*.local

@@ -1,0 +1,49 @@
+:root {
+  /* VSCode Dark+ (default dark theme) exact colors */
+  --color-bg-primary: #1E1E1E;       /* editor.background */
+  --color-bg-secondary: #252526;     /* sideBar.background */
+  --color-bg-tertiary: #2A2D2E;      /* list.hoverBackground */
+  --color-bg-tab-active: #1E1E1E;    /* tab.activeBackground */
+  --color-bg-tab-inactive: #2D2D2D;  /* tab.inactiveBackground */
+  --color-bg-titlebar: #3C3C3C;      /* titleBar.activeBackground */
+
+  --color-text-primary: #CCCCCC;     /* editor.foreground */
+  --color-text-secondary: #858585;   /* editorLineNumber.foreground */
+  --color-text-active: #FFFFFF;      /* tab.activeForeground */
+  --color-text-inactive: #FFFFFF80;  /* tab.inactiveForeground */
+
+  --color-accent-blue: #4FC1FF;      /* variable.other.constant */
+  --color-accent-cyan: #9CDCFE;      /* variable */
+  --color-accent-green: #6A9955;     /* comment green */
+  --color-accent-red: #F44747;       /* errorForeground */
+  --color-accent-yellow: #DCDCAA;    /* function yellow */
+  --color-accent-orange: #CE9178;    /* string orange */
+  --color-accent-purple: #C586C0;    /* keyword purple */
+  --color-accent-type: #4EC9B0;      /* type teal */
+  --color-accent-link: #3794FF;      /* textLink.foreground */
+
+  --color-border: #3E3E42;           /* panel.border */
+  --color-highlight: #37373D;        /* list.activeSelectionBackground */
+  --color-selection: #094771;        /* editor.selectionBackground */
+  --color-tab-border-active: #007ACC;/* tab.activeBorderTop (blue underline) */
+  --color-status-bar: #007ACC;       /* statusBar.background */
+
+  --sidebar-width: 250px;
+  --tab-height: 35px;
+  --status-bar-height: 24px;
+  --header-height: 30px;
+
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 12px;
+  --spacing-lg: 16px;
+  --spacing-xl: 20px;
+  --spacing-2xl: 24px;
+
+  --font-ui: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: 'Monaco', 'Menlo', 'Courier New', monospace;
+
+  --transition-fast: 0.15s ease-out;
+  --transition-normal: 0.2s ease-out;
+  --transition-slow: 0.3s ease-out;
+}

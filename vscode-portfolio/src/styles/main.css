@@ -1,0 +1,7 @@
+@import './theme.css';
+@import './layout.css';
+@import './components.css';
+@import './content.css';
+@import './prism-theme.css';
+@import './command-palette.css';
+@import './terminal.css';
